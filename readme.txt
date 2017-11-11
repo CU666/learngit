@@ -9,3 +9,5 @@ Creating a new branch is quick AND simple
 Creating a new branch is quick and simple
 add merge
 add bug
+
+add 建立远程连接，多人协作完成一个项目
